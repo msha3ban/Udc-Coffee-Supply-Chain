@@ -1,7 +1,7 @@
 # System versions
-Node.js => v14.17.6
-Truffle => v5.4.13
-Solidity => ^0.8.0
+Node.js => v14.17.6 <br/>
+Truffle => v5.4.13<br/>
+Solidity => ^0.8.0<br/>
 web3 => 0.20.6
 
 # Test Network
