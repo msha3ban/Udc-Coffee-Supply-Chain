@@ -19,8 +19,8 @@
  */
 
   const HDWalletProvider = require('@truffle/hdwallet-provider');
-  const infuraKey = "daf4395ad1f147d59af148b56bb34245";
-  const mnemonic = "spawn error you become inquiry vast fringe animal excuse already uphold brisk";
+  const infuraKey = "";
+  const mnemonic = "";
 // const fs = require('fs');
 // const mnemonic = fs.readFileSync(".secret").toString().trim();
 
